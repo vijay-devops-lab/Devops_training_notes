@@ -1,4 +1,5 @@
-<br>
+# Amazon SQS
+
 
 ## What is Full Form Of Amazon SQS?
 The full form of ****"Amazon SQS is Simple Queue Service".**** It is fully managed by AWS it's self it will take care of all the aspects like hardware provisioning, maintenance, and scaling. AWS SQS provides communication in a distributed system or application. The applications which are running in the cloud will be distributed across the different servers they need to communicate with each other.
@@ -8,6 +9,8 @@ SQS standards for Simple Queue Service offer asynchronous massaged-based communi
 ![AWS-SQS](https://raw.githubusercontent.com/vijay-devops-lab/Devops_training_notes/refs/heads/main/assets/AWS-SQS.png)
 
 The messages that are in the queue are in the form of Jason format and the queue is a holding pool of messages the limit of each message is 256 kilobytes per message. The publishers will publish the messages into the queue and the messages are processed or removed with the help of consumers.
+
+---
 
 ## What is SQS (Amazon Simple Queue Service) In AWS?
 
